@@ -1,0 +1,27 @@
+{
+  "token": "Insert token here!",
+  "username": "user",
+  "password": "pass",
+  "port": "server port",
+  "clientId": "bot id",
+  "guildId": "server id",
+  "globalDeploy": false,
+  "status": "choose something here!",
+  "website": "discord server invite",
+  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
+  "footer": "change to something",
+  "genChannel": "channel id",
+  "premiumChannel": "channel id",
+  "genCooldown": "120",
+  "premiumCooldown": "30",
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
