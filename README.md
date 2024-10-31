@@ -1,10 +1,4 @@
-# GiftMaster Discord Bot with Dashboard (Supports Slash Commands)
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1134114615962390581/1155449484071927858/GIFTMASTER-9-24-2023.png" alt="GiftMaster Logo" width="1000"/>
-</p>
-
-Welcome to GiftMaster, the advanced Discord bot that rewards you for using commands in your server and sends rewards via a sleek and efficient dashboard.
+#  Discord Gen bot made by Vam3r
 
 ## Table of Contents
 
