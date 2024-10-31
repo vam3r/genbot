@@ -22,12 +22,11 @@
 
 ## Let's Make It <3
 
-<a href="https://pylexnodes.net">
-</a>
+- [Pylexnodes](https://pylexnodes.net)
 
 ## Installation and Configuration
 
-Adding GiftMaster to your Discord server is a straightforward process:
+Adding the bot to your Discord server is a straightforward process:
 
 1. **Create a Bot:** Visit the [Discord Developer Portal](https://discord.com/developers/applications), create a bot, and invite it to your server.
 
@@ -41,7 +40,7 @@ Adding GiftMaster to your Discord server is a straightforward process:
    npm install
    ```
 
-5. **Configure the Bot:** Create a `config.json` file in the root directory and add your bot token to the `.env` file. You can obtain this token from the [Discord Developer Portal](https://discord.com/developers/applications).
+5. **Configure the Bot:** Go to `config.json` file in the root directory and add your bot token to the `.env` file. You can obtain this token from the [Discord Developer Portal](https://discord.com/developers/applications).
 
 6. **Dashboard Setup:** Update the website interface's username and password in the config or `.env` file.
 
@@ -71,4 +70,4 @@ If you have any questions or need assistance, feel free to reach out to us on Di
 
 ## About Us
 
-GiftMaster is developed with love by Science Gear 🔥. We're passionate about making your Discord experience more enjoyable and rewarding. Thank you for choosing GiftMaster!
+This bot is made by Vam3r. DM me on discord if you have issues! [Discord server!](https://discord.gg/6CFpDJeXDm)
