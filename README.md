@@ -11,9 +11,7 @@
 
 ## Key Features
 
-- **Stunning User Interface:** GiftMaster boasts an impressive and visually appealing UI.
-- **User-Friendly Dashboard:** Our dashboard makes configuration a breeze.
-- **Easy Setup:** GiftMaster is designed for simplicity, making it accessible for everyone.
+- **Easy Setup:** This bot is designed for simplicity, making it accessible for everyone.
 - **Slash Command Support:** We fully support Discord's slash commands for seamless interactions.
 
 ## Dependencies
@@ -24,8 +22,7 @@
 
 ## Let's Make It <3
 
-<a href="https://replit.com/github/https://github.com/ScienceGear/giftmaster-slash">
-  <img src="https://replit.com/badge/github/ScienceGear/giftmaster-slash" alt="Run on Replit" />
+<a href="https://pylexnodes.net">
 </a>
 
 ## Installation and Configuration
